@@ -10,6 +10,15 @@
                 padding:30px;
                 
             }
+            
+            a {color: pink;
+            text-decoration: none;
+            
+                
+            }
+            
+            a:hover {color: white;}
+            
             #intro-paragraph {
                 font-family: sans-serif;
                 color: white;
@@ -45,12 +54,12 @@
     
         <h1 class="page-top-banner">Stuff just got inspiring.</h1>
         
-<div id="magic-menu">
-Angelo<br>
-Kelsey<br>
-Lenny<br>
+<div id="magic-menu"><strong>
+<a href="https://sunuru.wixsite.com/sandboxsite/Sergio">Angelo<br></a>
+<a href="https://sunuru.wixsite.com/sandboxsite/Sergio">Kelsey<br></a>
+<a href="https://sunuru.wixsite.com/sandboxsite/Sergio">Lenny<br></a>
 <a href="https://sunuru.wixsite.com/sandboxsite/Sergio">Sergio</a>
-    
+</strong>    
 </div>
 <div id="intro-paragraph">When all else fails, just make a webpage dedicated to the things you're familiar with. I mean, what else are you supposed to do?</div>
 
