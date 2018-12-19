@@ -7,7 +7,7 @@
         body {background-color: rgb(1,175,209);}
             .page-top-banner {
                 background-color: rgb(255, 255, 255);
-                padding:20px;
+                padding:30px;
                 
             }
             #intro-paragraph {
@@ -22,13 +22,22 @@
                 float: left;
                 margin-right:20px;
                 font-size: 140%;
-                font-family: sans-serif;
+                font-family: "Verdana", sans-serif;
                 color: white;
                 background-color: black;
                 padding: 30px;
                 top: -22px;
                 
+                
             
+            }
+            #footer-thingy {clear: both;
+                color: white;
+                background-color: black;
+                padding: 10px;
+                font-family: "Verdana", sans-serif;
+                font-size: 80%;
+                
             }
         </style>
     </head>
@@ -44,6 +53,12 @@ Sergio
     
 </div>
 <div id="intro-paragraph">When all else fails, just make a webpage dedicated to the things you're familiar with. I mean, what else are you supposed to do?</div>
+
+<div id="footer-thingy"><strong><u>Footer information: </u></strong><br>
+Name: John Doe <br>
+Phone: This one?<br>
+Time of Day: Noon
+</div>
         
     </body>
 </html>
